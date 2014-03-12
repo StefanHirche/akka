@@ -34,3 +34,4 @@ The following, previously deprecated, features have been removed:
   in the way that was introduced in Akka 2.3.
 * Timeout constructor without unit
 * JavaLoggingEventHandler, replaced by JavaLogger 
+* UntypedActorFactory
