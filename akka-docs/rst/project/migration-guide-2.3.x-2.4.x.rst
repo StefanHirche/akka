@@ -35,3 +35,5 @@ The following, previously deprecated, features have been removed:
 * Timeout constructor without unit
 * JavaLoggingEventHandler, replaced by JavaLogger 
 * UntypedActorFactory
+* Java API TestKit.dilated, moved to JavaTestKit.dilated
+
